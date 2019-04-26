@@ -83,3 +83,181 @@ Year:2017
 --------
  Title:Guardians of the Galaxy Vol. 2
 Year:2017
+ Liri Says:
+--------
+Band: BTS
+Venue:Rose Bowl Stadium
+Venue's Location:PasadenaUnited States
+Date: 05/04/19 08:00 PM
+ Liri Says:
+--------
+Band: BTS
+Venue:Rose Bowl Stadium
+Venue's Location:PasadenaUnited States
+Date: 05/04/19 08:00 PM
+ Liri Says:
+--------
+Band: BTS
+Venue:Rose Bowl Stadium
+Venue's Location:PasadenaUnited States
+Date: 05/04/19 08:00 PM
+ Liri Says:
+--------
+Band: BTS
+Venue:Rose Bowl Stadium
+Venue's Location:PasadenaUnited States
+Date: 05/04/19 08:00 PM
+ Liri Says:
+--------
+Band: GOT7
+Venue:幕張メッセ　イベントホール
+Venue's Location:千葉市日本
+Date: 07/31/19 07:00 PM
+ Liri Says:
+--------
+Band: GOT7
+Venue:幕張メッセ　イベントホール
+Venue's Location:千葉市日本
+Date: 07/31/19 07:00 PM
+ Liri Says:
+--------
+Band: BTS
+Venue:Rose Bowl Stadium
+Venue's Location:PasadenaUnited States
+Date: 05/04/19 08:00 PM
+ Liri Says:
+--------
+Band: BTS
+Venue:Rose Bowl Stadium
+Venue's Location:PasadenaUnited States
+Date: 05/04/19 08:00 PM
+ Liri Says:
+--------
+Band: BTS
+Venue:Rose Bowl Stadium
+Venue's Location:PasadenaUnited States
+Date: 05/04/19 08:00 PM
+ Liri Says:
+--------
+Band: BTS
+Venue:Rose Bowl Stadium
+Venue's Location:PasadenaUnited States
+Date: 05/04/19 08:00 PM
+
+ Liri Says:
+--------
+Artist: Harry Styles
+Song:Sign of the Times
+Link:https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
+Album:Harry Styles
+
+ Liri Says:
+--------
+ Title:Guardians of the Galaxy Vol. 2
+Year:2017
+IMDB Ratings: 7.7
+Rotten Tomatoes Rating of the movie: 84%
+Country:  USA
+Language: English
+Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+
+ Liri Says:
+--------
+Band: BTS
+Venue:Rose Bowl Stadium
+Venue's Location:PasadenaUnited States
+Date: 05/04/19 08:00 PM
+
+ Liri Says:
+--------
+Artist: Backstreet Boys
+Song:I Want It That Way
+Link:https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album:The Hits--Chapter One
+
+ **************************
+ Liri Says:
+--------
+Band: BTS
+Venue:Rose Bowl Stadium
+Venue's Location:PasadenaUnited States
+Date: 05/04/19 08:00 PM **************************
+ Liri Says:
+--------
+Band: BTS
+Venue:Rose Bowl Stadium
+Venue's Location:PasadenaUnited States
+Date: 05/04/19 08:00 PM **************************
+ Liri Says:
+--------
+Band: BTS
+Venue:Rose Bowl Stadium
+Venue's Location:PasadenaUnited States
+Date: 05/04/19 08:00 PM **************************
+
+ Liri Says:
+--------
+Artist: Harry Styles
+Song:Sign of the Times
+Link:https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
+Album:Harry Styles
+
+ **************************
+ Liri Says:
+--------
+Band: BTS
+Venue:Rose Bowl Stadium
+Venue's Location:PasadenaUnited States
+Date: 05/04/19 08:00 PM **************************
+
+ Liri Says:
+--------
+Artist: Harry Styles
+Song:Sign of the Times
+Link:https://api.spotify.com/v1/tracks/5Ohxk2dO5COHF1krpoPigN
+Album:Harry Styles
+
+ **************************
+
+ Liri Says:
+--------
+Artist: BTS
+Song:Boy With Luv (feat. Halsey)
+Link:https://api.spotify.com/v1/tracks/5KawlOMHjWeUjQtnuRs22c
+Album:MAP OF THE SOUL : PERSONA
+
+ **************************
+ Liri Says:
+--------
+ Title:Guardians of the Galaxy Vol. 2
+Year:2017
+IMDB Ratings: 7.7
+Rotten Tomatoes Rating of the movie: 84%
+Country:  USA
+Language: English
+Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+
+ **************************
+ Liri Says:
+--------
+ Title:Guardians of the Galaxy Vol. 2
+Year:2017
+IMDB Ratings: 7.7
+Rotten Tomatoes Rating of the movie: 84%
+Country:  USA
+Language: English
+Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+
+ **************************
+
+ Liri Says:
+--------
+Artist: Backstreet Boys
+Song:I Want It That Way
+Link:https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+Album:The Hits--Chapter One
+
+ **************************
