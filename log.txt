@@ -261,3 +261,51 @@ Link:https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
 Album:The Hits--Chapter One
 
  **************************
+ Liri Says:
+--------
+ Title:Guardians of the Galaxy Vol. 2
+Year:2017
+IMDB Ratings: 7.7
+Rotten Tomatoes Rating of the movie: 84%
+Country:  USA
+Language: English
+Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+
+ **************************
+ Liri Says:
+--------
+ Title:Guardians of the Galaxy Vol. 2
+Year:2017
+IMDB Ratings: 7.7
+Rotten Tomatoes Rating of the movie: 84%
+Country:  USA
+Language: English
+Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+
+ **************************
+ Liri Says:
+--------
+ Title:Guardians of the Galaxy Vol. 2
+Year:2017
+IMDB Ratings: 7.7
+Rotten Tomatoes Rating of the movie: 84%
+Country:  USA
+Language: English
+Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+
+ **************************
+ Liri Says:
+--------
+ Title:Guardians of the Galaxy Vol. 2
+Year:2017
+IMDB Ratings: 7.7
+Rotten Tomatoes Rating of the movie: 84%
+Country:  USA
+Language: English
+Plot: The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.
+Actors: Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel
+
+ **************************

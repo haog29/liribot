@@ -13,6 +13,7 @@ var spotify = new Spotify(keys.spotify);
 var userInput = process.argv[2]
 var usrCmd = process.argv.slice(3).join(" ")
 
+
 function userOutput(userInput, usrCmd) {
   //switch case for how the command goes
   switch (userInput) {
@@ -23,6 +24,8 @@ function userOutput(userInput, usrCmd) {
       spotifyThisSong(usrCmd)
       break;
     case ('movie-this'):
+    console.log(usrCmd)
+
       movieThis(usrCmd)
       break;
     case ('do-what-it-says'):
